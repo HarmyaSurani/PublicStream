@@ -30,7 +30,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "standard-1x"
+            "size": "basic"
         }
     },
     "stack": "heroku-20"
