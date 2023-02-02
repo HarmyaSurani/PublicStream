@@ -26,4 +26,12 @@
     },
     "buildpacks": [{
         "url": "heroku/php"
+    }],
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    },
+    "stack": "heroku-20"
 }
